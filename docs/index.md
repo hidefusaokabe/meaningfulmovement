@@ -14243,6 +14243,19 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<H1>Executive Summary</H1>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>"Meaningful Movement" was conceived as a capstone project for The Data Incubator's Fellowship program during the fall of 2020. The aim was to demonstrate how the type and length of a person's movement (e.g., standing, laying down, going up or down the stairs, etc.) could be identified using a wearable device. This technology may provide useful information for assessing an individual's quality of health.</p>
+<p>Data that was acquired from an accelerometer/gyroscope was used to train a convolutional neural network to recognize a user's movement patterns, which were then visualized using a donut chart for interpretation.</p>
+<p>This capstone project would not have been possible without the support of my capstone advisor and data science in residence Michael Cullan, data scientist in residence Russell Martin, my colleagues in the cohort, and the staff at The Data Incubator.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <H1>Outline of the Problem Statement</H1>
 </div>
 </div>
